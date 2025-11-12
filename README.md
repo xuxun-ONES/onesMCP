@@ -218,6 +218,21 @@ AI 根据以下信息生成结构化计划：
 - 组件使用 React Hooks
 - API 路由使用 Next.js App Router
 
+## 📖 开发文档
+
+### ONES MCP 客户端开发文档
+
+如果您想要在代码中集成 ONES MCP，请查看详细的开发文档：
+
+📘 **[ONES MCP 客户端开发指南](./ONES_MCP_CLIENT_DEV_GUIDE.md)**
+
+该文档包含：
+- 🔌 连接 ONES MCP Server 的详细步骤
+- 🔐 OAuth 2.0 授权机制完整流程
+- 🛠️ 所有可用工具的调用示例
+- 💡 最佳实践和注意事项
+- 🐛 常见问题和故障排除
+
 ## 📄 许可证
 
 MIT License
